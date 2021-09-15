@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -std=c++11 -Wall  -g  -Wl,--enable-auto-import CMakeFiles/bme122-a2.dir/dynamic-stack.cpp.o CMakeFiles/bme122-a2.dir/circular-queue.cpp.o CMakeFiles/bme122-a2.dir/test.cpp.o  -o bme122-a2.exe -Wl,--out-implib,libbme122-a2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jules/Desktop/1B/BME122/Assignments/bme122-1211-a2-jcosma/circular-queue.cpp
+circular-queue.h
+/cygdrive/c/Users/jules/Desktop/1B/BME122/Assignments/bme122-1211-a2-jcosma/circular-queue.h
+iostream
+-
+
+/cygdrive/c/Users/jules/Desktop/1B/BME122/Assignments/bme122-1211-a2-jcosma/circular-queue.h
+
